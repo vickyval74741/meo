@@ -1,0 +1,42 @@
+
+
+body{
+
+    background-image: url(images/images/abstract-colorful-gradient-background-design-260nw-2112796256.webp);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+h2{
+    color: white;
+    margin-top: 20px;
+}
+
+.icon a{
+
+    font-size: 25px;
+    padding-left: 25px;
+    margin-left: 10px;
+}
+
+.fa-facebook{
+
+    font-size: 30px;
+    color: blue;
+}
+
+.fa-square-x-twitter{
+
+    font-size: 30px;  
+    color: dodgerblue;
+    border-radius: 50%;
+}
+
+.fa-square-instagram{
+    font-size: 30px; 
+    color: orangered;
+    border-radius: 50%;
+
+
+}
